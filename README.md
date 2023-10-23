@@ -1,7 +1,7 @@
 About
 ====
 
-This repository shows what is explained in https://dev-otion.com/en/entry/global-styles-in-tailwindcss-through-the-configuration-file
+This repository demonstrates what is explained in https://dev-otion.com/en/entry/global-styles-in-tailwindcss-through-the-configuration-file
 
 For simplicity's seak, it's running TailwindCSS from scratch. If you are using a framework (Vite, Next.js, Angular,...), you must configure TailwindCSS accordingly.
 
